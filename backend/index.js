@@ -8,7 +8,7 @@ const router = require('./routes')
 
 const app = express()
 const corsOptions = {
-    origin: process.env.FRONTEND_URL, // Allow only this origin
+    origin: 'https://mern-e-commerce-4efl.vercel.app', // Allow only this origin
     credentials: true, // Allow credentials (cookies, etc.)
   };
   
