@@ -1,0 +1,2 @@
+export const REACT_APP_STRIPE_PUBLIC_KEY =
+  "pk_test_51Pk6oxRrWdsqgyY7mbuFFAMuaTFO7lvU4sz1f272Ozrc8pM5ohygyhR3COMbxc6GWUfwTTsy8PoKLdLkPYRmJneS00qO57fb0z";
